@@ -1,6 +1,7 @@
 # Optimizing Debts Repayment
 Using Operations Research to minimize transactions in a debt network
 
+![Build](https://github.com/msramalho/optimizing-debts-repayment/workflows/Python%20application/badge.svg)
 [![codecov](https://codecov.io/gh/msramalho/optimizing-debts-repayment/branch/master/graph/badge.svg)](https://codecov.io/gh/msramalho/optimizing-debts-repayment)
 
 
