@@ -1,6 +1,8 @@
 # Optimizing Debts Repayment
 Using Operations Research to minimize transactions in a debt network
 
+[![codecov](https://codecov.io/gh/msramalho/optimizing-debts-repayment/branch/master/graph/badge.svg)](https://codecov.io/gh/msramalho/optimizing-debts-repayment)
+
 
 ## Problem
 Given a set of people who owe money to each other (graph), how to simplify the repayments so that the number of transactions is minimal.
