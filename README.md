@@ -24,7 +24,7 @@ To see optimization execution statistics, set `verbose=True`.
 The returned result is a list of `(payer_index, getter_index, amount)` for each transaction required to zero-out all debts.
 
 
-# Disclaimer
+## Disclaimer
 This problem is actually an example of a large set of problems relating to network flow assignment, namely:
 * [Uncapacitated Fixed-Charge Network Flow (Duhamel, 2001)](papers/duhamel2001.pdf) with null per-unit costs `cij=0` and unitary(constant) fixed costs `fij=1`. 
 * [Fixed-charge Transportation Problem (Spielberg, 1964)](papers/spielberg1964.pdf)
