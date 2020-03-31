@@ -1,0 +1,7 @@
+[run]
+source = .
+omit = 
+	env*
+	*test*
+	*__init__.py
+branch = True
