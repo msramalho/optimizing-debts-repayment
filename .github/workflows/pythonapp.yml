@@ -40,6 +40,7 @@ jobs:
     - name: "Prepare coveralls"
       run: |
         pip install python-coveralls
+        coverage report
         coveralls -d ".coverage"
     - name: Coveralls
       uses: coverallsapp/github-action@master
